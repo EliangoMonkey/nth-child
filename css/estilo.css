@@ -1,0 +1,76 @@
+html{
+    background: #000;
+}
+#uno{
+    position: relative;
+    background: #20b2aa;
+    color: bisque;
+    top: 200px;
+    left: 180px;
+    width: 400px;
+    z-index: 1;
+}
+
+div:nth-child(2){
+    background: #d70202;
+    width: 600px;
+}
+
+li:nth-child(1){
+    background: #1688c5;
+    width: 600px;
+}
+
+li:nth-child(2){
+    background: #90ee90;
+    width: 600px;
+}
+
+:nth-child(2){
+    background: rgb(0, 0, 255);
+    width: 600px;
+}
+
+:nth-child(3){
+    background: rgb(0, 255, 4);
+    width: 600px;
+}
+
+:nth-child(4){
+    background: #ff9500;
+    width: 600px;
+}
+
+:nth-child(5){
+    background: rgb(255, 0, 119);
+    width: 600px;
+}
+
+:nth-child(6){
+    background: rgb(0, 255, 89);
+    width: 600px;
+}
+:nth-child(7){
+    background: rgb(255, 94, 0);
+    width: 600px;
+}
+:nth-child(8){
+    background: rgb(255, 0, 0);
+    width: 600px;
+}
+:nth-child(9){
+    background: rgb(255, 0, 170);
+    width: 600px;
+}
+:nth-child(10){
+    background: rgb(166, 0, 255);
+    width: 600px;
+}
+:nth-child(11){
+    background: rgb(0, 255, 85);
+    width: 600px;
+}
+:nth-child(12){
+    background: rgb(255, 200, 0);
+    width: 600px;
+}
